@@ -1,7 +1,7 @@
 # Olá! Esse é o perfil do Diego Furigo 👋
 
 ## Sobre
-- 🔭 Não estou trabalhando no momento
+- 🔭 Estagiário em Desenvolvimento na <a href="https://github.com/quality-digital" target="_blank">Quality Digital</a>
 - 🌱 Estou estudando ADS na FIAP
 - 🤔 Como um programador iniciante, aceito qualquer ajuda e dicas!
 - 😄 Pronouns: ele/dele
